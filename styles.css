@@ -1,0 +1,19 @@
+/* GLOBAL */
+
+body { font-family: 'Century Gothic'
+
+}
+
+/* HOME PAGE */
+
+/* BIO PAGE */
+
+.bio h2,
+
+.bio h3 {
+	font-family: 'Century Gothic'
+}
+
+.bio h1 {text-transform: uppercase; letter-spacing: 2px;}
+
+/* STYLE TILE */
